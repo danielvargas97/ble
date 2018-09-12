@@ -1,2 +1,5 @@
-# ble
-Its a repo for my 3d models :v 
+# Blender
+## Daniel Vargas
+
+ - Its a repo for my 3d models
+ - :v
