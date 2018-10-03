@@ -1,1 +1,2 @@
-Carrera de objetos o carrito animado
+- Carrera de objetos o carrito animado
+- Esqueleto (Animacion)
