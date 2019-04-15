@@ -1,5 +1,5 @@
 # Blender 2018-3 
-## Daniel Vargas - 20152020009
+## Daniel Alfonso Vargas - 20152020009
 
 Aqui se tiene:
 - Primitivas
@@ -7,7 +7,7 @@ Aqui se tiene:
 - Texturas UV
 - Modelado de Personaje
 - Rigging de Personaje
-- Animación de seguimiento de cámara (Camera Path)
-- Animación de ciclo de caminado
-- Vectorización de logo
+- AnimaciÃ³n de seguimiento de cÃ¡mara (Camera Path)
+- AnimaciÃ³n de ciclo de caminado
+- VectorizaciÃ³n de logo
 - Proyecto Final
