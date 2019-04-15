@@ -1,5 +1,13 @@
-# Blender
-## Daniel Vargas
+# Blender 2018-3 
+## Daniel Vargas - 20152020009
 
- - Its a repo for my 3d models
- - :v
+Aqui se tiene:
+- Primitivas
+- Low Poly
+- Texturas UV
+- Modelado de Personaje
+- Rigging de Personaje
+- Animación de seguimiento de cámara (Camera Path)
+- Animación de ciclo de caminado
+- Vectorización de logo
+- Proyecto Final
